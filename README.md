@@ -2,7 +2,7 @@
 
 This is an game in which the ants and Beetles move in accordance to a set of rules. The beetles and ants check their surroundings and then determine which direction to move. 
 
-To play the game you just need to set a world using the world.txt file. There is a preset world in that file. after you have made the needed changes to the world.txt file you can just run the programs using the main.java file. Afer that follow the instructions in the consule. This program uses the java.swing libary to show the ant and beetles moving. So, once the program is running a java window would open and show an 10 by 10 grid. in the 10 by 10 grid the each turn is shown after 10 seconds.
+To play the game you just need to set a world using the world.txt file. There is a preset world in that file. after you have made the needed changes to the world.txt file you can just run the programs using the main.java file. After that follow the instructions in the terminal. This program uses the java.swing libary to show the ant and beetles moving. So, once the program is running a java window would open and show an 10 by 10 grid. in the 10 by 10 grid the each turn is shown after 5 seconds. in the end all the turns are show in the terminal in an text format. 
 
 
 Below is the preview of what the game looks like:
